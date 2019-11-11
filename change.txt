@@ -1,2 +1,3 @@
 change txt is good files
 this is feature
+new remove content
